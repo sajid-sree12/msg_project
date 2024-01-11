@@ -1,0 +1,31 @@
+/*Login.html*/
+a {
+    text-decoration: none;
+}
+.login-page {
+    width: 100%;
+    height: 100vh;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+}
+.form-right i {
+    font-size: 100px;
+}
+
+.icon{
+    font-size: 100px;
+}
+
+/* tasks.html*/
+
+.main-row{
+    height: 100vh;
+}
+.main-col{
+    max-width: 500px;
+    min-height: 300px;
+}
+.todo-done{
+    text-decoration: line-through;
+}
